@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16acd3f4-31ed-4c44-af6c-98853037b2f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Qazi/craigslist/my_app/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Qazi/craigslist/my_app/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeachX/.idea/TeachX.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../authenticate/.idea/authenticate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../basic/.idea/basic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blood_bank/.idea/blood_bank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bot_connect/dashboard/script/credentials.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bot_connect/dashboard/script/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bot_connect/dashboard/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bot_connect/dashboard/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../checkback/.idea/checkback.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../checkback/myenv/include/python3.7m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../checkback/myenv/lib/python3.7/collections" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../checkback/myenv/lib/python3.7/config-3.7m-darwin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../checkback/myenv/lib/python3.7/encodings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../checkback/myenv/lib/python3.7/importlib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../checkback/myenv/lib/python3.7/lib-dynload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../digitrecognizer/main/templates/main/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dj-ecommerce/.idea/dj-ecommerce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../djecommerce/.idea/djecommerce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../djecommerce/order/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../djecommerce/order/templates/order/checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../djecommerce/order/templates/order/item_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../djecommerce/order/templates/order/section/carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../djecommerce/order/templates/order/section/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../djecommerce/order/templates/order/section/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/.idea/ecommerce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/cart/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/cart/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/cart/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/cart/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/cart/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/cart/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/cart/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/cart/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/products/43496377_1920754061341719_179648148300365824_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/products/47579681_2008770222540102_670469924191207424_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/products/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/products/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/products/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/products/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/products/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/products/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/products/templates/products/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/products/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/products/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ecommerce/products/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leads/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leads/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leads/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mhkm/home/templates/home/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mhkm/home/templates/home/peace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mhkm/home/templates/home/travel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mhkm/home/templates/home/vlog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mhkm/home/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modeltut/.idea/modeltut.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pms/home/templates/home/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pms/home/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pretty/.idea/pretty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rest_api/.idea/rest_api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rest_api_basics/.idea/rest_api_basics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/home/static/image/img0.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/home/static/image/img1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/home/static/image/img2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/home/static/image/school_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/home/static/image/school_logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/home/static/image/teacher/t1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/home/static/image/teacher/t10.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/home/static/image/teacher/t11.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/home/static/image/teacher/t2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/home/static/image/teacher/t3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/home/static/image/teacher/t4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/home/static/image/teacher/t5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/home/static/image/teacher/t6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/home/static/image/teacher/t7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/home/static/image/teacher/t8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/home/static/image/teacher/t9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/home/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/home/templates/home/inc/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/home/templates/home/inc/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/home/templates/home/inc/slide.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/home/templates/home/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../school/home/templates/home/teacher.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todolist/.idea/todolist.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1VVOlGn26mLnqmHhpTiHEOKKDhJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/leads" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/leads" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16acd3f4-31ed-4c44-af6c-98853037b2f2" name="Default Changelist" comment="" />
+      <created>1577334945167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577334945167</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="319" y="222" key="com.intellij.ide.util.TipDialog" timestamp="1577334989263">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state x="319" y="222" key="com.intellij.ide.util.TipDialog/0.23.1280.733@0.23.1280.733" timestamp="1577334989263" />
+  </component>
+</project>
